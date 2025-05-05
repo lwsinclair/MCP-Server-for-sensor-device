@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kmwebnet-mcp-server-for-sensor-device-badge.png)](https://mseep.ai/app/kmwebnet-mcp-server-for-sensor-device)
+
 # MCP Server for sensor device
 
 This project is a Node.js application designed for use with Claude Desktop. It simulates a CO2 sensor device and provides a JSON-RPC server to interact with the device. The application can run in both simulation mode and real mode, where it connects to a Raspberry Pi Pico via USB to read CO2 levels.
